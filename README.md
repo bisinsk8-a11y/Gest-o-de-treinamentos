@@ -56,13 +56,6 @@ Abra o [site publicado no GitHub Pages](https://bisinsk8-a11y.github.io/Gest-o-d
 
 As permissões são aplicadas pelas políticas RLS do Supabase. Para habilitar a criação de contas, a Edge Function de cadastro também precisa estar publicada no Supabase. Consulte [docs/PUBLICAR_GITHUB_PAGES.md](docs/PUBLICAR_GITHUB_PAGES.md) para configurar e publicar o projeto.
 
-### Executar localmente
-
-1. Copie `.env.example` para `.env`.
-2. Preencha `SUPABASE_URL` e `SUPABASE_ANON_KEY` com a URL do projeto e a chave pública `anon` ou `publishable`.
-3. Configure o banco aplicando `supabase/schema.sql` e as migrações necessárias em `supabase/migrations/` no SQL Editor do Supabase.
-4. Execute `node server.js` e abra `http://localhost:4173` no navegador.
-
 Não envie `.env` ao GitHub. Nunca use uma chave `service_role` ou `secret` no navegador.
 
 ## 8. Links
