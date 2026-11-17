@@ -14,7 +14,10 @@ Centralizar os dados de colaboradores, treinamentos, conclusões e certificados;
 
 ## 4. Integrantes do grupo
 
-- **Preencher com os nomes completos dos integrantes do grupo.**
+- **Gabriel Bisin Stecca**
+- **Gabriel de Lima Fusquini**
+- **Joel Gonçalves Pereira**
+- **Paulo Ricardo Fogaça Proença**
 
 ## 5. Tecnologias utilizadas
 
