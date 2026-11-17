@@ -17,7 +17,6 @@ Centralizar os dados de colaboradores, treinamentos, conclusões e certificados;
 - **Gabriel Bisin Stecca**
 - **Gabriel de Lima Fusquini**
 - **Joel Gonçalves Pereira**
-- **Paulo Ricardo Fogaça Proença**
 
 ## 5. Tecnologias utilizadas
 
